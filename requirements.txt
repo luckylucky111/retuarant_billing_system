@@ -1,0 +1,6 @@
+
+Topic - Restaurant Billing Console Based App for Windows
+
+language - C 
+Editor - CodeBlock
+C language topics - Array,Variables,Loops
